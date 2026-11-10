@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- MindWobble Pro update manifest. Upload to: github.com/ramzi67/mindwobble-releases (main branch, repo root).
+     For every new release: change version, url, changelog tag, and checksum (SHA256 of the setup .exe). -->
+<item>
+  <version>3.0.1.0</version>
+  <url>https://github.com/ramzi67/mindwobble-releases/releases/download/v3.0.1/MindWobblePro_Setup_3.0.1.0.exe</url>
+  <changelog>https://github.com/ramzi67/mindwobble-releases/releases/tag/v3.0.1</changelog>
+  <mandatory>false</mandatory>
+  <checksum algorithm="SHA256">d6fba6633531311f31dd75fa84c312da81778ba875d74b94eb92f2595c1b21a3</checksum>
+</item>
