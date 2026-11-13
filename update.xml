@@ -2,9 +2,9 @@
 <!-- MindWobble Pro update manifest. Written by installer\release.ps1 - do not edit by hand.
      Upload to: github.com/ramzi67/mindwobble-releases (main branch, repo root), AFTER the release is published. -->
 <item>
-  <version>4.0.3.0</version>
-  <url>https://github.com/ramzi67/mindwobble-releases/releases/download/v4.0.3/MindWobblePro_Setup_4.0.3.0.exe</url>
-  <changelog>https://github.com/ramzi67/mindwobble-releases/releases/tag/v4.0.3</changelog>
+  <version>4.0.4.0</version>
+  <url>https://github.com/ramzi67/mindwobble-releases/releases/download/v4.0.4/MindWobblePro_Setup_4.0.4.0.exe</url>
+  <changelog>https://github.com/ramzi67/mindwobble-releases/releases/tag/v4.0.4</changelog>
   <mandatory>false</mandatory>
-  <checksum algorithm="SHA256">7eeaff9fee27cc0f11594d41c9cc8aefbbf6eaa55072c94fbfdc024a5f30f57b</checksum>
+  <checksum algorithm="SHA256">657af93d5d06836304c9add3ccb77c2836a377a2d435ff507a5495c8d043a959</checksum>
 </item>
